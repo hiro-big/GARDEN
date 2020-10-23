@@ -1,3 +1,5 @@
-void run(){
-  
+public class Trunstile{
+  void run(){
+
+  }
 }

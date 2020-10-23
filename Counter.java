@@ -1,7 +1,9 @@
-int readValue(){
+public class Counter{
+  int readValue(){
 
-}
+  }
 
-void writeValue(){
-  
+  void writeValue(){
+
+  }
 }
