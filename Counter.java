@@ -1,0 +1,7 @@
+int readValue(){
+
+}
+
+void writeValue(){
+  
+}
