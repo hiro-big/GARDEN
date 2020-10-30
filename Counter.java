@@ -5,7 +5,7 @@ public class Counter{
     return value;
   }
 
-  public void writeValue(){
+  public void writeValue(int value){
     value++;
   }
 }

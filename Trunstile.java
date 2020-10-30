@@ -6,8 +6,7 @@ public class Trunstile extend Thread{
   public void run(){
     for(int i=1;i<100;i++){
       system.out.println("来場"+(i));
-      counter.readValue();
-      counter.writeValue();
+      counter.writeValue(counter.readValue());
     }
   }
 }
