@@ -1,11 +1,11 @@
 public class Counter{
-  private int value = 0;
+  private int value;
 
   public int readValue(){
     return value;
   }
 
-  public void writeValue(int value){
+  public void writeValue(){
     value++;
   }
 }
