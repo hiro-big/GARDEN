@@ -7,6 +7,6 @@ public class Counter{
 
   public void writeValue(int num){
     value = num + 1;
-    System.out.println(value);
+    System.out.printf("カウンタ：%d\n",value);
   }
 }

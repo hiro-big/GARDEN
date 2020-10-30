@@ -9,6 +9,7 @@ public class Garden{
     thread_east.start();
     thread_west.start();
     try{
+      thread_east.join();
       thread_west.join();
     } catch (InterruptedException e){
 
