@@ -14,6 +14,6 @@ public class Garden{
     } catch (InterruptedException e){
 
     }
-    System.out.println(counter.readValue());
+    System.out.printf("最終結果：%d\n",counter.readValue());
   }
 }
