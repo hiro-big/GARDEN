@@ -1,3 +1,4 @@
+/* 更新日 2020/11/2 */
 import java.lang.Thread;
 
 public class Trunstile extends Thread{

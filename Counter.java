@@ -1,3 +1,4 @@
+/* 更新日 2020/11/2 */
 public class Counter{
   private static int value;
 
